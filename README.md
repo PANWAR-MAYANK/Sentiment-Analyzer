@@ -3,9 +3,9 @@
 
 Welcome to the Sentiment Analyser web app project! This repository contains the code for a Flask web application that performs sentiment analysis on user-provided text. Below is an overview of the project and instructions on how to use and run the application.
 ### INPUT
-![Screenshot 2024-01-28 at 12 44 59 PM](https://github.com/ananyamanjunath/Sentiment-Analyser/assets/109954683/38e96b5f-a015-4dd7-8018-7c45dd66ab28)
+![Screenshot 2024-11-12 at 12 44 59 PM](https://github.com/PANWAR-MAYANK/Sentiment-Analyzer/blob/main/assets/TestCase.PNG)
 ### OUTPUT
-![Screenshot 2024-01-28 at 12 45 51 PM](https://github.com/ananyamanjunath/Sentiment-Analyser/assets/109954683/b8bd102b-f17a-4636-bd41-e1a25f2b0259)
+![Screenshot 2024-11-12 at 12 45 51 PM](https://github.com/PANWAR-MAYANK/Sentiment-Analyzer/blob/main/assets/Result.PNG)
 
 ## Overview
 
