@@ -2,6 +2,10 @@
 # Sentiment Analysis Web App
 
 Welcome to the Sentiment Analyser web app project! This repository contains the code for a Flask web application that performs sentiment analysis on user-provided text. Below is an overview of the project and instructions on how to use and run the application.
+
+Explore the Movie Recommendation System live: [Mood-Metric - The Sentiment Analyzer App
+](https://mood-metric.streamlit.app/)
+
 ### INPUT
 ![Screenshot 2024-11-12 at 12 44 59 PM](https://github.com/PANWAR-MAYANK/Sentiment-Analyzer/blob/main/assets/TestCase.PNG)
 ### OUTPUT
