@@ -6,3 +6,4 @@ scipy==1.14.1
 wrapt==1.16.0
 Flask==3.0.2
 googletrans==4.0.0rc1
+nltk==3.8.1
